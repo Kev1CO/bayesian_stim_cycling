@@ -1,7 +1,7 @@
 # Bayesian stimulation hand cycling project
 
 ## Required installation
-- Python==3.9 (for the stimulator)
+- Python==3.10 (for the stimulator)
 
 ### Stimulator:
 - pysciencemode: conda install -c conda-forge pysciencemode (https://github.com/s2mLab/pyScienceMode)
